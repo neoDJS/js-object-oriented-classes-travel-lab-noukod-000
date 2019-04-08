@@ -22,7 +22,7 @@ let eastWest = [
 'Park',
 'Madison Avenue',
 '5th Avenue'
-]; 
+];
 
 class Route{
   constructor(beginningLocation, endingLocation){
